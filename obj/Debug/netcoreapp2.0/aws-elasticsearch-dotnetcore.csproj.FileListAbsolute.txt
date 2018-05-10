@@ -1,0 +1,10 @@
+/home/taher/aws-elasticsearch-dotnetcore/bin/Debug/netcoreapp2.0/aws-elasticsearch-dotnetcore.deps.json
+/home/taher/aws-elasticsearch-dotnetcore/bin/Debug/netcoreapp2.0/aws-elasticsearch-dotnetcore.runtimeconfig.json
+/home/taher/aws-elasticsearch-dotnetcore/bin/Debug/netcoreapp2.0/aws-elasticsearch-dotnetcore.runtimeconfig.dev.json
+/home/taher/aws-elasticsearch-dotnetcore/bin/Debug/netcoreapp2.0/aws-elasticsearch-dotnetcore.dll
+/home/taher/aws-elasticsearch-dotnetcore/bin/Debug/netcoreapp2.0/aws-elasticsearch-dotnetcore.pdb
+/home/taher/aws-elasticsearch-dotnetcore/obj/Debug/netcoreapp2.0/aws-elasticsearch-dotnetcore.csproj.CoreCompileInputs.cache
+/home/taher/aws-elasticsearch-dotnetcore/obj/Debug/netcoreapp2.0/aws-elasticsearch-dotnetcore.AssemblyInfoInputs.cache
+/home/taher/aws-elasticsearch-dotnetcore/obj/Debug/netcoreapp2.0/aws-elasticsearch-dotnetcore.AssemblyInfo.cs
+/home/taher/aws-elasticsearch-dotnetcore/obj/Debug/netcoreapp2.0/aws-elasticsearch-dotnetcore.dll
+/home/taher/aws-elasticsearch-dotnetcore/obj/Debug/netcoreapp2.0/aws-elasticsearch-dotnetcore.pdb
